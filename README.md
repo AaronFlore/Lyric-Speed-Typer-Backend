@@ -2,7 +2,7 @@
 
 ##### Improve your typing skills by typing along to the lyrics of your favorite spotify songs as they play! This personal project was developed to create a more engaging and fun way to practice typing speed and accuracy. Please see the demo gif below and [the frontend here](https://github.com/AaronFlore/Lyric-Speed-Typer-Frontend "the frontend repo here"): 
 
-![](./public/demo.gif)
+![](./gif/typing_demo.gif)
 
 ## Tech Stack
 ### Frontend: React, JavaScript, HTML, CSS<br /> Backend: Node.js, Express, Spotify Web API
